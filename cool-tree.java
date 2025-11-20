@@ -3,7 +3,7 @@ import java.io.PrintStream;
 import java.util.Vector;
 
 
-/** Defines simple phylum Program  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa */
+/** Defines simple phylum Program  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa  aaa*/
 abstract class Program extends TreeNode {
 
     protected Program(int lineNumber) {
